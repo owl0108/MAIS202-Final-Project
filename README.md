@@ -7,9 +7,13 @@ Training data was retrieved from [Kaggle](https://www.kaggle.com/c/sentiment-ana
 The project aims to build a webapp that can predict a sentiment of a given movie review on a scale of 0 to 4:
 
 0 - Negative
+
 1 - Somewhat negative
+
 2 - Neutral
+
 3 - Somewhat positive
+
 4 - Positive
 
 The classifier adopts the multinomial Naive Bayes from scikit-learn and several text preprocesssing steps such as tokenization and lemmatization were impementend using Natural Language Toolkit.
