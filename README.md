@@ -35,7 +35,7 @@ The accuracy of prediction is around 55%.
     * Contains everything necessary to run the webapp.
 
 5. getPredictionModel.ipynb
-    * Jupyter Notebook to train the model
+    * Jupyter Notebook for training the model
 
 
 
