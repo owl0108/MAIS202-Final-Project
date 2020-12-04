@@ -23,19 +23,19 @@ The accuracy of prediction is around 55%.
 
 ## Repository organization
 1. Deliverables/
-  * Deliverables submitted over the course of MAIS202
+    * Deliverables submitted over the course of MAIS202
 
 2. data/
-  * Training data retrieved from Kaggle
+    * Training data retrieved from Kaggle
 
 3. pics/
-  * The confusion matrix for the model and screenshots of the app running.
+    * The confusion matrix for the model and screenshots of the app running.
 
 4. webapp/
-  * Contains everything necessary to run the webapp.
+    * Contains everything necessary to run the webapp.
 
 5. getPredictionModel.ipynb
-  * Jupyter Notebook to train the model
+    * Jupyter Notebook to train the model
 
 
 
