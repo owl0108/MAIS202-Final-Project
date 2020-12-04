@@ -22,20 +22,20 @@ The accuracy of prediction is around 55%.
 4. Run flask.py and open http://localhost:5000/ in your browser.
 
 ## Repository organization
-Deliverables/
-* Deliverables submitted over the course of MAIS202
+1. Deliverables/
+  * Deliverables submitted over the course of MAIS202
 
-data/
-* Training data retrieved from Kaggle
+2. data/
+  * Training data retrieved from Kaggle
 
-pics/
-* The confusion matrix for the model and screenshots of the app running.
+3. pics/
+  * The confusion matrix for the model and screenshots of the app running.
 
-webapp/
-* Contains everything necessary to run the webapp.
+4. webapp/
+  * Contains everything necessary to run the webapp.
 
-getPredictionModel.ipynb
-* Jupyter Notebook to train the model
+5. getPredictionModel.ipynb
+  * Jupyter Notebook to train the model
 
 
 
